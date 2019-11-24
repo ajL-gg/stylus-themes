@@ -1,0 +1,21 @@
+@-moz-document domain("sigames.com") {
+#ipsLayout_body {background-color:#2e3440}
+#ipsLayout_contentArea {background-color:#2e3440}
+#ipsLayout_contentWrapper {background-color:#2e3440}
+#ipsLayout_mainArea {background-color:#2e3440}
+.ipsBreadcrumb > ul li {color:#d8dee9}
+.ipsBox {background-color:#434c5e}
+.ipsBox:not(.ipsBox_transparent):not(.ipsModerated) {background-color:#434c5e}
+div.cTopic .ipsBox:not(.ipsBox_transparent):not(.ipsModerated) {background-color:#434c5e}
+.ipsType_richText {color:#d8dee9}
+a {color:#81a1c1}
+.ipsQuote_citation {background-color:#3b4252}
+.ipsQuote {background-color:#2e3440; border-color:#4c566a}
+.ipsType_light {color:#eceff4}
+.ipsAreaBackground {background-color:#3b4252;}
+.cke_wysiwyg_frame, .cke_wysiwyg_div {background-color:#2e3440;}
+.ipsAreaBackground_light {background-color:#4c566a}
+.cke_top {background-color:#d8dee9; color:#d8dee9}
+.ipsDataList.ipsDataList_zebra .ipsDataItem:not(.ipsDataItem_selected):not(.ipsModerated):not(.ipsDataItem_new):not(.ipsDataItem_success):not(.ipsDataItem_warning):not(.ipsDataItem_error):not(.ipsDataItem_info):not(.ipsDataItem_status):nth-child(2n) {background-color:#3b4252;}
+.ipsComment:not(.ipsModerated):not(.ipsComment_selected).ipsBox.ipsComment_popular {background-color:#3b4252; border-color: #d08770 #8fbcbb #8fbcbb #8fbcbb}
+}
